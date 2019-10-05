@@ -21,7 +21,7 @@ public class IfElseExamples {
 		}
 
 		x = 6;
-		if (x == 5) {
+		if (x == 4) {
 			System.out.println("x is 5");// Not executed since x==5 is false
 		}
 
