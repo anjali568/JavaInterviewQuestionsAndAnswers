@@ -8,7 +8,7 @@ class Animal {
 		System.out.println("Animal Bark");
 	}
 };
-
+//this is inner class
 public class AnonymousClass {
 
 	private static String[] reverseSort(String[] array) {
